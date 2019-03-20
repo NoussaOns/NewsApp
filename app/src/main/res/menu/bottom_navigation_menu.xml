@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>-->
+    <item
+        android:icon="@drawable/politics"
+        android:id="@+id/politics"
+        android:title="@string/politics"/>
+    <item
+        android:icon="@drawable/sports"
+        android:id="@+id/sports"
+        android:title="@string/sports"/>
+    <item
+        android:icon="@drawable/science"
+        android:id="@+id/science"
+        android:title="@string/science"/>
+    <item
+        android:icon="@drawable/business"
+        android:id="@+id/business"
+        android:title="@string/business"/>
+
+
+</menu>
